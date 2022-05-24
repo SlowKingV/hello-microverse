@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SlowKingV/hello-microverse/issues"
   },
-  "homepage": "https://github.com/SlowKingV/hello-microverse#readme"
+  "homepage": "https://github.com/SlowKingV/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
 }
